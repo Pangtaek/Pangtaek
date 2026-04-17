@@ -1,5 +1,4 @@
-### Hi there 👋
-### Welcome!!! 🎉🎉🎉
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pangtaek00)](https://solved.ac/pangtaek00)
 <!--
 **Pangtaek/Pangtaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
